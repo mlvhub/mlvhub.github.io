@@ -1,2 +1,0 @@
-# Godot Action RPG Tutorial
-
